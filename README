@@ -1,7 +1,8 @@
 # Wrangle OpenStreetMap Data
 
 ## Overview
-I chose the street data in Cardiff, England, because I'm a fan of Doctor Who. Many scenes of Doctor Who and its spin-off show, Torch Wood, are filmed there. I hope to go to the Doctor Who exhibition on Discovery Quay one day, but unfortunately, the exhibition is shutting down soon.
+The open street map data chosen is from Cardiff, England. 
+
 
 ## Data Cleaning and Auditing
 The trial cleaning is in the "Open_Street_Map.py". I was also amazed by the different street types and names in Cardiff, for instance, "Heol Eglwys", "Heol-Y-Deri", and "Pen-Y-Bryn". There weren't many abbreviations in street names; however, there are a few mistakes in the file
